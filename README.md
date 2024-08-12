@@ -5,4 +5,4 @@ A main purpose of the customer product material track database is to fetch data 
 
 In cases, where coordination with a database management or engineering team is required if needed, I can follow up to write various syntaxes (programming languages) for SQL queries.
 
-Thank you for yourt review and questions for further developmen. In the next project, I use machine learning (Python script) to interact with the existing database in SQL.  
+Thank you for yourt review and questions for further development. In the next project, I use machine learning (Python script) to interact with the existing database in SQL.  
