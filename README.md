@@ -1,8 +1,8 @@
-A brief description of the above Boeing customer product material ERD diagram, which establishes relationships between entities (tables), primary keys, and foreign keys is fundamental for a purpose of SQL query data flow by using Microsoft Visio.
+A brief description of the above Boeing customer product material ERD diagram, which establishes relationships between entities (tables), primary keys, and foreign keys, which help in understanding the fundamental SQL query data flow. The diagram is created  by using Microsoft Visio.
+
+A main purpose of the customer product material database is to track customer's inventory starting from the customer's service order to provide every airline customer's airplane, which includes a total of price, product, material, order date, and stock quantity in the customer account transaction system and from which year. 
 
 
-A main purpose of the customer product material track database is to fetch data starting from the customer's service order (base table) to track each airline customer's airplane, which includes a total of price, product, material, order date, and stock quantity from a certain year in the customer account transaction system. This data model design in this project is just one example, according to my perspective in common transaction system information configuation.
+Data Explanation: In real-world workplace projects, there is no need to design a database, as the system connects directly to the company’s existing financial databases.This data model design in this project is just an example, according to my understanding of common transaction system data configuations.
 
-In most cases, I can support IT project team if needed, I could follow up to write various syntax (programming languages) for SQL queries.
-
-Thank you for yourt review and questions for further development. In the next project, I use machine learning (Python script) to interact with the existing database in SQL.  
+Thank you for your review and comments for further project development.   
